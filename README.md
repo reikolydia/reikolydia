@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=reikolydia.github.io&theme=radical)(https://reikolydia.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=reikolydia.github.io&theme=radical)(https://reikolydia.github.io)]
