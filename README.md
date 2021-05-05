@@ -16,7 +16,7 @@
 
 ---
 
-### My Pins!
+### 💡My Pins!
 
 [![reikolydia.github.io](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=reikolydia.github.io&theme=radical)](https://reikolydia.github.io)
 [![Windows Terminal Themes](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=Windows-Terminal-Themes&theme=radical)](https://github.com/reikolydia/Windows-Terminal-Themes)
@@ -25,7 +25,7 @@
 
 ---
 
-### About Me
+### 🎆 &nbsp;About Me
 
 - 🔭 I’m currently working on: <b>Creating a LTE router from a Raspberry Pi 4</b>
 - 🌱 I’m currently learning: <b>ARTIFICIAL INTELLIGENCE</b>
