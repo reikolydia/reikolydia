@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=reikolydia&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/reikolydia)
 
-[![reikolydia.github.io](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=reikolydia.github.io&theme=radical)](https://reikolydia.github.io) [![Windows Terminal Themes](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=Windows-Terminal-Themes&theme=radical)](https://github.com/reikolydia/Windows-Terminal-Themes)
+---
+
+[![reikolydia.github.io](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=reikolydia.github.io&theme=radical)](https://reikolydia.github.io)
+[![Windows Terminal Themes](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=Windows-Terminal-Themes&theme=radical)](https://github.com/reikolydia/Windows-Terminal-Themes)
+[![RaspberryPi4 LTE](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=RBPi4-LTE_RASPBIAN-LITE&theme=radical)](https://github.com/reikolydia/RBPi4-LTE_RASPBIAN-LITE)
