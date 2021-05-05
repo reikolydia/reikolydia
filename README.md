@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 [![reikolydia.github.io](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=reikolydia.github.io&theme=radical)](https://reikolydia.github.io)
 [![Windows Terminal Themes](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=Windows-Terminal-Themes&theme=radical)](https://github.com/reikolydia/Windows-Terminal-Themes)
 [![RaspberryPi4 LTE](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=RBPi4-LTE_RASPBIAN-LITE&theme=radical)](https://github.com/reikolydia/RBPi4-LTE_RASPBIAN-LITE)
+[![Razer Blade 2018 Hackintosh](https://github-readme-stats.vercel.app/api/pin/?username=reikolydia&repo=RazerBlade2018Hackintosh&theme=radical)](https://github.com/reikolydia/RazerBlade2018Hackintosh)
