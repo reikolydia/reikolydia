@@ -1,4 +1,6 @@
-### Hello there 👋
+### <img alt="handwavegif" src="https://github.com/reikolydia/reikolydia.github.io/raw/main/images/about/handwave.gif" width='40' align="left"/> HELLO!
+
+<br>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/reikolydia?style=for-the-badge)
 
