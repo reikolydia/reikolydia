@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=reikolydia&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/reikolydia)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=reikolydia&show_icons=true&theme=radical&include_all_commits=true&hide_title=true)](https://github.com/reikolydia)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reikolydia&layout=compact&theme=radical)](https://github.com/reikolydia)
 
 ---
 
