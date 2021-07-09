@@ -31,7 +31,7 @@
 
 ![](https://komarev.com/ghpvc/?username=reikolydia&color=ff69b4&style=flat-square)
 
-- 🔭 - I’m currently working on: <b>Creating a LTE router from a Raspberry Pi 4</b>
+- 🔭 - I’m currently working on: <b>Designing a VTOL multi jet engine drone <i>(craft?)</i></b>
 - 🌱 - I’m currently learning: <b>ARTIFICIAL INTELLIGENCE</b>
 
 - 💡 - A highly motivated and adaptable individual capable of handling many different situations and problems.
