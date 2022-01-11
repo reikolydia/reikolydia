@@ -48,6 +48,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=MySQL)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
+![SenseTalk](https://img.shields.io/badge/Eggplant%20SenseTalk-05122A?style=for-the-badge&logo=egghead)
 
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=Windows)
 ![Mac](https://img.shields.io/badge/-Mac-05122A?style=for-the-badge&logo=Apple)
