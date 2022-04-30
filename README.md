@@ -62,7 +62,7 @@
 
 ### 📞 &nbsp;Contact Me!
 
-[![iCloud](https://img.shields.io/badge/-github@reikolydia.xyz-05122A?style=for-the-badge&logo=iCloud)](mailto:github@reikolydia.xyz)
+[![iCloud](https://img.shields.io/badge/-github@reikolydia.sg-05122A?style=for-the-badge&logo=iCloud)](mailto:github@reikolydia.sg)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jazereel-lydia-goh-reiko/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-05122A?style=for-the-badge&logo=WhatsApp)](https://wa.me/6596723481/)
 [![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=for-the-badge&logo=Telegram)](https://t.me/Jazereel/)
