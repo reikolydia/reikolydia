@@ -34,9 +34,15 @@
 - 🔭 - I’m currently working on: <b>Designing a VTOL multi jet engine drone <i>(craft?)</i></b>
 - 🌱 - I’m currently learning: <b>ARTIFICIAL INTELLIGENCE</b>
 
+<br>
+
 - 💡 - A highly motivated and adaptable individual capable of handling many different situations and problems.
 - ⚡ - I'm also a quick learner and very much enjoy taking up new challenges to solve all sorts of problems.
 - 💻 - A firm believer that computers should work for us, and not the other way around!
+
+<br>
+
+- 🎖️ - Recipient of Singapore's Covid-19 Resilience Medal [(No. 26244 under Ministry of Health - page 309)](https://www.pmo.gov.sg/National-Awards/-/media/8CCC48F241604DA2881E012145AB142F.ashx#page=310)
 
 <br>
 
